@@ -56,9 +56,13 @@ img {
 .bar {
   margin: 0 25%;
   width: 45%;
-  height: 2rem;
-  outline: none;
+  height: 2rem;     
   border-radius: 15px;
+  border: 1px gray solid; 
+}
+
+.bar:hover{
+   
 }
 
 .buttons {
